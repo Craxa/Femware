@@ -1,2 +1,2 @@
-_G.FemKess = "FemWare On Top"
+_G.FemKess = ""
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Craxa/Femware/main/FemWare.lua'),true))()
