@@ -1,6 +1,10 @@
-FemWare 1.1.0(a)
-+ Elevator Teleport Up-N-Down
-- Removed/Changed Escape Vibe Check
+FemWare 1.1.0b
++ Infinite, but space jump in space :cowboy: 
++ ESP Distance added, so no more screen clogs up yo face
++ Walkspeed/Jump to max 150, useless but cool
++ Teleports elevator, tower to Teleport tab
++ Optimization (less lag)
+- no minus
 
 https://discord.gg/bq2wTfHTbf
 Femware on top
